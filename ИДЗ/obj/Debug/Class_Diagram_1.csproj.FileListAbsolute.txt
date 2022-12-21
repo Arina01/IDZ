@@ -1,0 +1,14 @@
+C:\Users\arina\Desktop\ИДЗ\ИДЗ\obj\Debug\Class_Diagram_1.csproj.AssemblyReference.cache
+C:\Users\arina\Desktop\ИДЗ\ИДЗ\obj\Debug\Class_Diagram_1.DrawField.resources
+C:\Users\arina\Desktop\ИДЗ\ИДЗ\obj\Debug\Class_Diagram_1.ClassCreator.resources
+C:\Users\arina\Desktop\ИДЗ\ИДЗ\obj\Debug\Class_Diagram_1.Properties.Resources.resources
+C:\Users\arina\Desktop\ИДЗ\ИДЗ\obj\Debug\Class_Diagram_1.csproj.GenerateResource.cache
+C:\Users\arina\Desktop\ИДЗ\ИДЗ\obj\Debug\Class_Diagram_1.csproj.CoreCompileInputs.cache
+C:\Users\arina\Desktop\ИДЗ\ИДЗ\obj\Debug\Class_Diagram_1.exe
+C:\Users\arina\Desktop\ИДЗ\ИДЗ\obj\Debug\Class_Diagram_1.pdb
+C:\Users\arina\Desktop\ИДЗ\Class_Diagram_1.exe.config
+C:\Users\arina\Desktop\ИДЗ\Class_Diagram_1.exe
+C:\Users\arina\Desktop\ИДЗ\Class_Diagram_1.pdb
+C:\Users\arina\Desktop\ИДЗ\ИДЗ\bin\Debug\Class_Diagram_1.exe.config
+C:\Users\arina\Desktop\ИДЗ\ИДЗ\bin\Debug\Class_Diagram_1.exe
+C:\Users\arina\Desktop\ИДЗ\ИДЗ\bin\Debug\Class_Diagram_1.pdb
